@@ -5,8 +5,10 @@
 **This is a(n):**
 <!-- choose one by changing [ ] to [x] -->
 - [ ] Error				<!-- Something broke -->
-- [ ] Bug				<!-- Somehting didn't happen as expected -->
+- [ ] Bug				<!-- Something didn't happen as expected -->
 - [ ] Feature proposal	<!-- I have an idea to share -->
+
+<!-- Optional but helpful information -->
 
 **Behavior:**
 <!-- Details of what happened -->
