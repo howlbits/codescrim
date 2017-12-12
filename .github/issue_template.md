@@ -4,8 +4,9 @@
 
 **This is a(n):**
 <!-- choose one by changing [ ] to [x] -->
-- [ ] Error
-- [ ] Proposal
+- [ ] Error				<!-- Something broke -->
+- [ ] Bug				<!-- Somehting didn't happen as expected -->
+- [ ] Feature proposal	<!-- I have an idea to share -->
 
 **Behavior:**
 <!-- Details of what happened -->
